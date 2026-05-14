@@ -41,3 +41,14 @@ python -m venv .venv
 
 # Instalar dependências (Single Source of Truth)
 pip install .
+
+## 📒 Passo a passo para refletir as alteralções
+
+# Adiciona todos os ficheiros alterados
+git add .
+
+# Regista as alterações (Exemplo de mensagem)
+git commit -m "Comente a alteralção realizada"
+
+# Envia as suas alterações locais para o repositório remoto
+git push origin main
