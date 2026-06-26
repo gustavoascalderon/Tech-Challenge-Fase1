@@ -197,14 +197,10 @@ Gate de fairness: disparidade FNR ≤ 10 p.p. entre grupos
 - [x] LightGBM + Optuna como Baseline 3
 - [x] MLflow com parâmetros, métricas e dataset_version
 - [x] ML Canvas preenchido (`docs/ml_canvas.md`)
-- [ ] Linting com ruff sem erros (rodar: `ruff check src/ tests/`)
 
 ## 🗺️ Roadmap
 
 - [x] **Etapa 1** — EDA + 3 Baselines (Dummy, LR, LightGBM) + MLflow + Fairlearn
-- [ ] **Etapa 2** — MLP com PyTorch + comparação com baselines
-- [ ] **Etapa 3** — Refatoração src/ + FastAPI + testes pytest
-- [ ] **Etapa 4** — Model Card + vídeo STAR + (opcional) deploy em nuvem
 
 ---
 
