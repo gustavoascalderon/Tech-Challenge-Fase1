@@ -1,0 +1,16 @@
+creation_timestamp: 1782393638198
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1782393638198
+model_id: m-40c6c7ca5250476a853fc00e3e86ee83
+name: churn-logistic-baseline
+run_id: 40f08f7505924e8db2dc6aef5b6dfd14
+run_link: null
+source: models:/m-40c6c7ca5250476a853fc00e3e86ee83
+status: READY
+status_message: null
+storage_location: file:///Users/matheusfiletti/Desktop/eng_de_machine_learning/Tech-Challenge-Fase1/models/573940291247750367/models/m-40c6c7ca5250476a853fc00e3e86ee83/artifacts
+user_id: null
+version: 2
+workspace: default

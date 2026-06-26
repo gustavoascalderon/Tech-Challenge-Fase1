@@ -1,0 +1,16 @@
+creation_timestamp: 1782394138688
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1782394138688
+model_id: m-6c3fa7a3fd76460e81fd468e93fba4b4
+name: churn-dummy-baseline
+run_id: 9ceb2673b14f4f4aaf707f6e285c1a61
+run_link: null
+source: models:/m-6c3fa7a3fd76460e81fd468e93fba4b4
+status: READY
+status_message: null
+storage_location: file:///Users/matheusfiletti/Desktop/eng_de_machine_learning/Tech-Challenge-Fase1/models/573940291247750367/models/m-6c3fa7a3fd76460e81fd468e93fba4b4/artifacts
+user_id: null
+version: 3
+workspace: default
