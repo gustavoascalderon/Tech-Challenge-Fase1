@@ -223,6 +223,8 @@ Gate de fairness: disparidade FNR ≤ 10 p.p. entre grupos
 - [LightGBM Documentation](https://lightgbm.readthedocs.io/)
 
 ---
+##  Video do time
+https://youtu.be/5q2ORQBScSI
 
 ## 📄 Licença
 
