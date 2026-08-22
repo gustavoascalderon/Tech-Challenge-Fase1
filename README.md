@@ -1,4 +1,4 @@
-# 📡 Churn Guard — Inteligência Artificial para Retenção de Clientes
+# 📡 Churn - Retenção de Clientes
 
 Tech Challenge Fase 1 · FIAP/POSTECH — Machine Learning Engineering
 
