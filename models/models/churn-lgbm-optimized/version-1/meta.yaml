@@ -1,0 +1,16 @@
+creation_timestamp: 1782224323744
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1782224323744
+model_id: m-9105de860f934c12815f810a1b0395a8
+name: churn-lgbm-optimized
+run_id: fe4a1cfbd155461d842533e348162712
+run_link: null
+source: models:/m-9105de860f934c12815f810a1b0395a8
+status: READY
+status_message: null
+storage_location: file:///Users/matheusfiletti/Desktop/eng_de_machine_learning/Tech-Challenge-Fase1/models/573940291247750367/models/m-9105de860f934c12815f810a1b0395a8/artifacts
+user_id: null
+version: 1
+workspace: default
