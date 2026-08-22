@@ -5,9 +5,9 @@ build-backend = "setuptools.backends.legacy:build"
 [project]
 name = "churn-prediction"
 version = "0.1.0"
-description = "Previsão de churn de clientes de telecomunicações — MLP (PyTorch) + LightGBM (Optuna) + MLflow + Fairlearn"
+description = "Previsão de churn de clientes de telecomunicações com MLP (PyTorch)"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 
 dependencies = [
     "pandas>=2.0",
@@ -21,9 +21,6 @@ dependencies = [
     "matplotlib>=3.7",
     "seaborn>=0.13",
     "imbalanced-learn>=0.11",
-    "fairlearn>=0.10",
-    "lightgbm>=4.5",
-    "optuna>=3.6",
 ]
 
 [project.optional-dependencies]
