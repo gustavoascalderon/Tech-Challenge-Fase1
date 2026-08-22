@@ -1,4 +1,4 @@
-# 📡 Churn Guard — Inteligência Artificial para Retenção de Clientes
+# 📡 Churn Guard —  Retenção de Clientes
 
 Tech Challenge Fase 1 · FIAP/POSTECH — Machine Learning Engineering
 
@@ -240,16 +240,6 @@ ruff check src/ tests/
 - `gender` é binário no dataset; clientes não-binários não são representados.
 - Gate de fairness reprovado em `SeniorCitizen` e `Dependents` — documentado e analisado, não mitigado. Ver Model Card seção 5.
 - Correlação, não causalidade. `Contract=Month-to-month` prediz churn; forçar migração de contrato não necessariamente retém.
-
----
-
-## 🗺️ Roadmap
-
-- [x] **Etapa 1** — EDA + 3 baselines + MLflow + Fairlearn
-- [x] **Etapa 2** — MLP em PyTorch com early stopping
-- [x] **Etapa 3** — Refatoração `src/` + API FastAPI + testes
-- [x] **Etapa 4** — Model Card + plano de monitoramento + CI
-- [ ] Deploy em nuvem (opcional)
 
 ---
 
