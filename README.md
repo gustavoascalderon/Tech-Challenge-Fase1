@@ -243,16 +243,6 @@ ruff check src/ tests/
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] **Etapa 1** — EDA + 3 baselines + MLflow + Fairlearn
-- [x] **Etapa 2** — MLP em PyTorch com early stopping
-- [x] **Etapa 3** — Refatoração `src/` + API FastAPI + testes
-- [x] **Etapa 4** — Model Card + plano de monitoramento + CI
-- [ ] Deploy em nuvem (opcional)
-
----
-
 ## 👥 Time
 
 | Nome | RM |
